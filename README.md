@@ -5,8 +5,8 @@ A flutter app to calculate the body mass index based on the designs of [Kevin Al
 This project is inspired by the app brewery mobile development course, after doing their version of the BMI calculator i decided to make my own version
 
 ##
-
-
+<img src="https://github.com/Josefrino/BMI/blob/master/bmi1.jpg" width="320">
+<img src="https://github.com/Josefrino/BMI/blob/master/bmi2.jpg" width="320">
 
 ## What i learned
 * How to use Flutter themes to create coherent branding.
