@@ -1,6 +1,12 @@
 # bmi
 A flutter app to calculate the body mass index based on the designs of [Kevin Al-Rizal](https://dribbble.com/shots/11368106-BMI-Calculator-App-Neumorphism)
 
+## About the project
+This project is inspired by the app brewery mobile development course, after doing their version of the BMI calculator i decided to make my own version
+
+##
+
+
 
 ## What i learned
 * How to use Flutter themes to create coherent branding.
